@@ -1,5 +1,6 @@
 <section style='display:flex'>
-  <img width='60%' src='https://user-images.githubusercontent.com/50111853/188340222-232ff7a0-e1a1-422f-9d95-2cea8a9a66ac.png' />
+  <img width='50%' src='https://user-images.githubusercontent.com/50111853/188340222-232ff7a0-e1a1-422f-9d95-2cea8a9a66ac.png' />
+  <img width='50%' src='https://user-images.githubusercontent.com/50111853/202850382-0ef44038-011b-4264-a203-c465affaea4f.jpeg' />
 </section>
 
 `<input type="number"/>`는 숫자를 1씩 증감하는 것이 의미있는 경우에만 적절. 
